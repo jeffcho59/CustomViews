@@ -15,6 +15,7 @@
 		D62469411BF3CB4A007612C7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D624693F1BF3CB4A007612C7 /* LaunchScreen.storyboard */; };
 		D624694C1BF3CB4A007612C7 /* customviewTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D624694B1BF3CB4A007612C7 /* customviewTests.swift */; };
 		D62469571BF3CB4A007612C7 /* customviewUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D62469561BF3CB4A007612C7 /* customviewUITests.swift */; };
+		D62469671BF3CC21007612C7 /* BlueButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = D62469661BF3CC21007612C7 /* BlueButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		D62469521BF3CB4A007612C7 /* customviewUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = customviewUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D62469561BF3CB4A007612C7 /* customviewUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = customviewUITests.swift; sourceTree = "<group>"; };
 		D62469581BF3CB4A007612C7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D62469661BF3CC21007612C7 /* BlueButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BlueButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				D624693D1BF3CB4A007612C7 /* Assets.xcassets */,
 				D624693F1BF3CB4A007612C7 /* LaunchScreen.storyboard */,
 				D62469421BF3CB4A007612C7 /* Info.plist */,
+				D62469661BF3CC21007612C7 /* BlueButton.swift */,
 			);
 			path = customview;
 			sourceTree = "<group>";
@@ -262,6 +265,7 @@
 				D62469391BF3CB4A007612C7 /* SecondViewController.swift in Sources */,
 				D62469351BF3CB4A007612C7 /* AppDelegate.swift in Sources */,
 				D62469371BF3CB4A007612C7 /* FirstViewController.swift in Sources */,
+				D62469671BF3CC21007612C7 /* BlueButton.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
